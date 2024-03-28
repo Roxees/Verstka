@@ -1,0 +1,26 @@
+@charset "UTF-8";
+/*проекты*/
+.projects {
+  margin-bottom: 100px;
+}
+.projects .row {
+  row-gap: 24px;
+}
+.projects .projects__card img {
+  width: 100%;
+  margin-bottom: 12px;
+  border-radius: 16px;
+}
+.projects .projects__card a {
+  color: #FFA239;
+  font-size: 18px;
+  font-weight: 600;
+  text-decoration: none;
+  margin-bottom: 6px;
+  display: inline-block;
+}
+.projects .projects__card a:hover {
+  text-decoration: underline;
+}
+
+/*проекты конец*//*# sourceMappingURL=projects.css.map */
